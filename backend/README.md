@@ -109,7 +109,6 @@ Located at [`models/Contact.js`](models/Contact.js):
 - All contact form data is stored in the `contactform` database, `contacts` collection.
 
 ---
-
 ## 🧑‍💻 Contributing
 
 1. Fork the repository
