@@ -95,7 +95,6 @@ frontend/
 ├── package.json
 └── README.md
 ```
-
 ---
 
 ## 🔗 Backend Integration
